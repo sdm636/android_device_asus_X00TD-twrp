@@ -1,2 +1,2 @@
-add_lunch_combo lineage_X00TD-eng
-add_lunch_combo lineage_X00TD-userdebug
+add_lunch_combo lineage_X00T-eng
+add_lunch_combo lineage_X00T-userdebug

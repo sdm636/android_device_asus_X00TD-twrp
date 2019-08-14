@@ -1,11 +1,11 @@
-# android_device_asus_X00TD
+# android_device_asus_X00T
 For building TWRP for Asus Zenfone Max Pro M1 ONLY
 
 To compile
 
-. build/envsetup.sh && lunch lineage_X00TD-userdebug && WITH_TWRP=true make -j8 recoveryimage
+. build/envsetup.sh && lunch lineage_X00T-userdebug && WITH_TWRP=true make -j8 recoveryimage
 
-The Asus Zenfone Max Pro M1 (codenamed _"ASUS_X00TD"_) is high-end mid-range smartphones from Asus.
+The Asus Zenfone Max Pro M1 (codenamed _"ASUS_X00T"_) is high-end mid-range smartphones from Asus.
 
 Asus Zenfone Max Pro M1 was announced and released in April 2018.
 
